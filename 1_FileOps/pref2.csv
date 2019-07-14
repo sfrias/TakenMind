@@ -1,0 +1,241 @@
+,COUNTRY,COUNTRY CODE,ISO CODES
+0,Afghanistan,93,AF / AFG
+1,Albania,355,AL / ALB
+2,Algeria,213,DZ / DZA
+3,American Samoa,1-684,AS / ASM
+4,Andorra,376,AD / AND
+5,Angola,244,AO / AGO
+6,Anguilla,1-264,AI / AIA
+7,Antarctica,672,AQ / ATA
+8,Antigua and Barbuda,1-268,AG / ATG
+9,Argentina,54,AR / ARG
+10,Armenia,374,AM / ARM
+11,Aruba,297,AW / ABW
+12,Australia,61,AU / AUS
+13,Austria,43,AT / AUT
+14,Azerbaijan,994,AZ / AZE
+15,Bahamas,1-242,BS / BHS
+16,Bahrain,973,BH / BHR
+17,Bangladesh,880,BD / BGD
+18,Barbados,1-246,BB / BRB
+19,Belarus,375,BY / BLR
+20,Belgium,32,BE / BEL
+21,Belize,501,BZ / BLZ
+22,Benin,229,BJ / BEN
+23,Bermuda,1-441,BM / BMU
+24,Bhutan,975,BT / BTN
+25,Bolivia,591,BO / BOL
+26,Bosnia and Herzegovina,387,BA / BIH
+27,Botswana,267,BW / BWA
+28,Brazil,55,BR / BRA
+29,British Indian Ocean Territory,246,IO / IOT
+30,British Virgin Islands,1-284,VG / VGB
+31,Brunei,673,BN / BRN
+32,Bulgaria,359,BG / BGR
+33,Burkina Faso,226,BF / BFA
+34,Burundi,257,BI / BDI
+35,Cambodia,855,KH / KHM
+36,Cameroon,237,CM / CMR
+37,Canada,1,CA / CAN
+38,Cape Verde,238,CV / CPV
+39,Cayman Islands,1-345,KY / CYM
+40,Central African Republic,236,CF / CAF
+41,Chad,235,TD / TCD
+42,Chile,56,CL / CHL
+43,China,86,CN / CHN
+44,Christmas Island,61,CX / CXR
+45,Cocos Islands,61,CC / CCK
+46,Colombia,57,CO / COL
+47,Comoros,269,KM / COM
+48,Cook Islands,682,CK / COK
+49,Costa Rica,506,CR / CRI
+50,Croatia,385,HR / HRV
+51,Cuba,53,CU / CUB
+52,Curacao,599,CW / CUW
+53,Cyprus,357,CY / CYP
+54,Czech Republic,420,CZ / CZE
+55,Democratic Republic of the Congo,243,CD / COD
+56,Denmark,45,DK / DNK
+57,Djibouti,253,DJ / DJI
+58,Dominica,1-767,DM / DMA
+59,Dominican Republic,"1-809, 1-829, 1-849",DO / DOM
+60,East Timor,670,TL / TLS
+61,Ecuador,593,EC / ECU
+62,Egypt,20,EG / EGY
+63,El Salvador,503,SV / SLV
+64,Equatorial Guinea,240,GQ / GNQ
+65,Eritrea,291,ER / ERI
+66,Estonia,372,EE / EST
+67,Ethiopia,251,ET / ETH
+68,Falkland Islands,500,FK / FLK
+69,Faroe Islands,298,FO / FRO
+70,Fiji,679,FJ / FJI
+71,Finland,358,FI / FIN
+72,France,33,FR / FRA
+73,French Polynesia,689,PF / PYF
+74,Gabon,241,GA / GAB
+75,Gambia,220,GM / GMB
+76,Georgia,995,GE / GEO
+77,Germany,49,DE / DEU
+78,Ghana,233,GH / GHA
+79,Gibraltar,350,GI / GIB
+80,Greece,30,GR / GRC
+81,Greenland,299,GL / GRL
+82,Grenada,1-473,GD / GRD
+83,Guam,1-671,GU / GUM
+84,Guatemala,502,GT / GTM
+85,Guernsey,44-1481,GG / GGY
+86,Guinea,224,GN / GIN
+87,Guinea-Bissau,245,GW / GNB
+88,Guyana,592,GY / GUY
+89,Haiti,509,HT / HTI
+90,Honduras,504,HN / HND
+91,Hong Kong,852,HK / HKG
+92,Hungary,36,HU / HUN
+93,Iceland,354,IS / ISL
+94,India,91,IN / IND
+95,Indonesia,62,ID / IDN
+96,Iran,98,IR / IRN
+97,Iraq,964,IQ / IRQ
+98,Ireland,353,IE / IRL
+99,Isle of Man,44-1624,IM / IMN
+100,Israel,972,IL / ISR
+101,Italy,39,IT / ITA
+102,Ivory Coast,225,CI / CIV
+103,Jamaica,1-876,JM / JAM
+104,Japan,81,JP / JPN
+105,Jersey,44-1534,JE / JEY
+106,Jordan,962,JO / JOR
+107,Kazakhstan,7,KZ / KAZ
+108,Kenya,254,KE / KEN
+109,Kiribati,686,KI / KIR
+110,Kosovo,383,XK / XKX
+111,Kuwait,965,KW / KWT
+112,Kyrgyzstan,996,KG / KGZ
+113,Laos,856,LA / LAO
+114,Latvia,371,LV / LVA
+115,Lebanon,961,LB / LBN
+116,Lesotho,266,LS / LSO
+117,Liberia,231,LR / LBR
+118,Libya,218,LY / LBY
+119,Liechtenstein,423,LI / LIE
+120,Lithuania,370,LT / LTU
+121,Luxembourg,352,LU / LUX
+122,Macau,853,MO / MAC
+123,Macedonia,389,MK / MKD
+124,Madagascar,261,MG / MDG
+125,Malawi,265,MW / MWI
+126,Malaysia,60,MY / MYS
+127,Maldives,960,MV / MDV
+128,Mali,223,ML / MLI
+129,Malta,356,MT / MLT
+130,Marshall Islands,692,MH / MHL
+131,Mauritania,222,MR / MRT
+132,Mauritius,230,MU / MUS
+133,Mayotte,262,YT / MYT
+134,Mexico,52,MX / MEX
+135,Micronesia,691,FM / FSM
+136,Moldova,373,MD / MDA
+137,Monaco,377,MC / MCO
+138,Mongolia,976,MN / MNG
+139,Montenegro,382,ME / MNE
+140,Montserrat,1-664,MS / MSR
+141,Morocco,212,MA / MAR
+142,Mozambique,258,MZ / MOZ
+143,Myanmar,95,MM / MMR
+144,Namibia,264,NA / NAM
+145,Nauru,674,NR / NRU
+146,Nepal,977,NP / NPL
+147,Netherlands,31,NL / NLD
+148,Netherlands Antilles,599,AN / ANT
+149,New Caledonia,687,NC / NCL
+150,New Zealand,64,NZ / NZL
+151,Nicaragua,505,NI / NIC
+152,Niger,227,NE / NER
+153,Nigeria,234,NG / NGA
+154,Niue,683,NU / NIU
+155,North Korea,850,KP / PRK
+156,Northern Mariana Islands,1-670,MP / MNP
+157,Norway,47,NO / NOR
+158,Oman,968,OM / OMN
+159,Pakistan,92,PK / PAK
+160,Palau,680,PW / PLW
+161,Palestine,970,PS / PSE
+162,Panama,507,PA / PAN
+163,Papua New Guinea,675,PG / PNG
+164,Paraguay,595,PY / PRY
+165,Peru,51,PE / PER
+166,Philippines,63,PH / PHL
+167,Pitcairn,64,PN / PCN
+168,Poland,48,PL / POL
+169,Portugal,351,PT / PRT
+170,Puerto Rico,"1-787, 1-939",PR / PRI
+171,Qatar,974,QA / QAT
+172,Republic of the Congo,242,CG / COG
+173,Reunion,262,RE / REU
+174,Romania,40,RO / ROU
+175,Russia,7,RU / RUS
+176,Rwanda,250,RW / RWA
+177,Saint Barthelemy,590,BL / BLM
+178,Saint Helena,290,SH / SHN
+179,Saint Kitts and Nevis,1-869,KN / KNA
+180,Saint Lucia,1-758,LC / LCA
+181,Saint Martin,590,MF / MAF
+182,Saint Pierre and Miquelon,508,PM / SPM
+183,Saint Vincent and the Grenadines,1-784,VC / VCT
+184,Samoa,685,WS / WSM
+185,San Marino,378,SM / SMR
+186,Sao Tome and Principe,239,ST / STP
+187,Saudi Arabia,966,SA / SAU
+188,Senegal,221,SN / SEN
+189,Serbia,381,RS / SRB
+190,Seychelles,248,SC / SYC
+191,Sierra Leone,232,SL / SLE
+192,Singapore,65,SG / SGP
+193,Sint Maarten,1-721,SX / SXM
+194,Slovakia,421,SK / SVK
+195,Slovenia,386,SI / SVN
+196,Solomon Islands,677,SB / SLB
+197,Somalia,252,SO / SOM
+198,South Africa,27,ZA / ZAF
+199,South Korea,82,KR / KOR
+200,South Sudan,211,SS / SSD
+201,Spain,34,ES / ESP
+202,Sri Lanka,94,LK / LKA
+203,Sudan,249,SD / SDN
+204,Suriname,597,SR / SUR
+205,Svalbard and Jan Mayen,47,SJ / SJM
+206,Swaziland,268,SZ / SWZ
+207,Sweden,46,SE / SWE
+208,Switzerland,41,CH / CHE
+209,Syria,963,SY / SYR
+210,Taiwan,886,TW / TWN
+211,Tajikistan,992,TJ / TJK
+212,Tanzania,255,TZ / TZA
+213,Thailand,66,TH / THA
+214,Togo,228,TG / TGO
+215,Tokelau,690,TK / TKL
+216,Tonga,676,TO / TON
+217,Trinidad and Tobago,1-868,TT / TTO
+218,Tunisia,216,TN / TUN
+219,Turkey,90,TR / TUR
+220,Turkmenistan,993,TM / TKM
+221,Turks and Caicos Islands,1-649,TC / TCA
+222,Tuvalu,688,TV / TUV
+223,U.S. Virgin Islands,1-340,VI / VIR
+224,Uganda,256,UG / UGA
+225,Ukraine,380,UA / UKR
+226,United Arab Emirates,971,AE / ARE
+227,United Kingdom,44,GB / GBR
+228,United States,1,US / USA
+229,Uruguay,598,UY / URY
+230,Uzbekistan,998,UZ / UZB
+231,Vanuatu,678,VU / VUT
+232,Vatican,379,VA / VAT
+233,Venezuela,58,VE / VEN
+234,Vietnam,84,VN / VNM
+235,Wallis and Futuna,681,WF / WLF
+236,Western Sahara,212,EH / ESH
+237,Yemen,967,YE / YEM
+238,Zambia,260,ZM / ZMB
+239,Zimbabwe,263,ZW / ZWE

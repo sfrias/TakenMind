@@ -1,0 +1,25 @@
+Manufacturer,"Real-World
+Fuel Economy
+(mpg)",Real-World CO2(g/mi),"Real-World
+Fuel Economy
+(mpg).1","Fuel Economy Change from 
+MY 2016
+(mpg)",Real-World CO2(g/mi).1,"CO2Change from 
+MY 2016
+(g/mi)","Real-World
+Fuel Economy
+(mpg).2",Real-World CO2(g/mi).2
+BMW,25.5,349,25.9,0.4,341,-7,26.2,336
+FCA,21.5,413,21.2,-0.4,420,7,21.9,406
+Ford,22.8,389,22.9,0.0,388,-1,22.7,392
+GM,22.4,397,22.9,0.5,388,-8,23.3,380
+Honda,28.2,315,29.4,1.2,302,-13,29.5,300
+Hyundai,28.8,309,28.6,-0.2,311,2,27.9,318
+Kia,26.2,338,27.2,0.9,327,-11,27.7,319
+Mazda,29.6,301,29.0,-0.5,306,5,28.7,312
+Mercedes,23.7,376,23.1,-0.6,385,9,23.7,374
+Nissan-Mitsubishi,27.8,318,27.1,-0.7,327,9,26.8,329
+Subaru,28.1,317,28.5,0.4,312,-5,28.4,313
+Toyota,25.0,355,25.3,0.3,351,-4,26.0,341
+VW,26.6,334,26.5,-0.2,335,2,25.1,353
+All Manufacturers,24.7,359,24.9,0.2,357,-3,25.4,348

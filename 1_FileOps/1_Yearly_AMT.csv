@@ -1,0 +1,46 @@
+Model Year,Production (000),Real-World CO2(g/mi),Real-World FE (mpg),Mfr. with Highest Fuel Economy (mpg),Mfr. with Lowest Fuel Economy (mpg),Vehicle,Real-World FE (mpg).1,"Engine 
+Type","Gasoline 
+Vehicle",Real-World FE (mpg).2
+1975,10224,681,13.1,Honda,Ford,Honda Civic,28.3,Gas,Honda Civic,28.3
+1976,12334,625,14.2,Honda,Ford,Honda Civic,30.5,Gas,Honda Civic,30.5
+1977,14123,590,15.1,Honda,FCA,Honda Civic,37.6,Gas,Honda Civic,37.6
+1978,14448,562,15.8,Mazda,Ford,VW Rabbit,37.5,Diesel,Nissan-Mitsubishi,34.3
+1979,13882,560,15.9,Honda,Ford,VW Rabbit,39.1,Diesel,Nissan-Mitsubishi,33.6
+1980,11306,466,19.2,VW,Ford,VW Rabbit,40.3,Diesel,Nissan-Mitsubishi,36.1
+1981,10554,436,20.5,VW,Ford,VW Rabbit,40.9,Diesel,Toyota Starlet,37.9
+1982,9732,425,21.1,Honda,Ford,VW Rabbit,42.7,Diesel,Nissan-Mitsubishi,41.0
+1983,10302,426,21.0,Honda,Ford,Nissan-Mitsubishi,45.3,Diesel,Honda Civic,42.4
+1984,14020,424,21.0,Honda,Ford,Honda Civic,48.0,Gas,Honda Civic,48.0
+1985,14460,417,21.3,Honda,Mercedes,GM Sprint,49.6,Gas,GM Sprint,49.6
+1986,15365,407,21.8,Hyundai,Mercedes,GM Sprint,56.8,Gas,GM Sprint,56.8
+1987,14865,405,22.0,Hyundai,Mercedes,GM Sprint,54.8,Gas,GM Sprint,54.8
+1988,15295,407,21.9,Hyundai,Mercedes,GM Metro,54.4,Gas,GM Metro,54.4
+1989,14453,415,21.4,Hyundai,Mercedes,Honda CRX,50.6,Gas,Honda Civic,50.6
+1990,12615,420,21.2,Hyundai,Mercedes,GM Metro,53.4,Gas,GM Metro,53.4
+1991,12573,418,21.3,Hyundai,Mercedes,GM Metro,53.0,Gas,GM Metro,53.0
+1992,12172,427,20.8,Hyundai,Mercedes,GM Metro,52.6,Gas,GM Metro,52.6
+1993,13211,426,20.9,Honda,Mercedes,GM Metro,52.2,Gas,GM Metro,52.2
+1994,14125,436,20.4,Kia,FCA,GM Metro,52.2,Gas,GM Metro,52.2
+1995,15145,434,20.5,Honda,FCA,Honda Civic,47.3,Gas,Honda Civic,47.3
+1996,13144,435,20.4,Hyundai,FCA,Suzuki Swift,43.3,Gas,Suzuki Swift,43.3
+1997,14458,441,20.2,Hyundai,FCA,GM Metro,42.8,Gas,GM Metro,42.8
+1998,14456,442,20.1,Honda,FCA,GM Metro,42.0,Gas,GM Metro,42.0
+1999,15215,451,19.7,Hyundai,FCA,VW Jetta,41.0,Diesel,GM Metro,39.3
+2000,16571,450,19.8,Hyundai,FCA,Honda Insight,57.4,Hybrid,GM Metro,39.4
+2001,15605,453,19.6,Hyundai,FCA,Honda Insight,56.3,Hybrid,Honda Civic,37.3
+2002,16115,457,19.5,Honda,FCA,Honda Insight,55.6,Hybrid,Honda Civic,35.9
+2003,15773,454,19.6,Honda,Ford,Honda Insight,55.0,Hybrid,Honda Civic,35.5
+2004,15709,461,19.3,Honda,Ford,Honda Insight,53.5,Hybrid,Honda Civic,35.3
+2005,15892,447,19.9,Honda,Ford,Honda Insight,53.3,Hybrid,Honda Civic,35.1
+2006,15104,442,20.1,Mazda,Ford,Honda Insight,53.0,Hybrid,Toyota Corolla,32.3
+2007,15276,431,20.6,Toyota,Mercedes,Toyota Prius,46.2,Hybrid,Toyota Yaris,32.6
+2008,13898,424,21.0,Hyundai,Mercedes,Toyota Prius,46.2,Hybrid,Smart  Fortwo,37.1
+2009,9316,397,22.4,Toyota,FCA,Toyota Prius,46.2,Hybrid,Smart  Fortwo,37.1
+2010,11116,394,22.6,Hyundai,Mercedes,Honda FCX,60.2,FCV,Smart  Fortwo,36.8
+2011,12018,399,22.3,Hyundai,Mercedes,BMW Active E,100.6,EV,Smart  Fortwo,35.7
+2012,13449,377,23.6,Hyundai,FCA,Nissan-i-MiEV,109.0,EV,Toyota iQ,36.8
+2013,15198,368,24.2,Hyundai,FCA,Toyota IQ,117.0,EV,Toyota iQ,36.8
+2014,15512,369,24.1,Mazda,FCA,BMW i3,121.3,EV,Mitsubishi Mirage,39.5
+2015,16739,361,24.6,Mazda,FCA,BMW i3,121.3,EV,Mitsubishi Mirage,39.5
+2016,16267,359,24.7,Mazda,FCA,BMW i3,121.3,EV,Mazda 2,37.1
+2017,17011,357,24.9,Honda,FCA,Hyundai Ioniq,132.6,EV,Mitsubishi Mirage,41.5
