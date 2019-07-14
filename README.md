@@ -1,3 +1,3 @@
 # TakenMind Internship Data and Code
-[Join](https://github.com/sfrias/FB_AI_LibraChain/tree/master/SecPrivAI)
+[Join](https://internship.takenmind.com/p/21270)
 <br>Code and Data for this internship
