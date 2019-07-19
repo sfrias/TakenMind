@@ -31,9 +31,19 @@ df6 = DataFrame({'reference': ['ola', 'ola', 'lyft', 'lyft', 'uber', 'uber', 'ol
                  'revenue': [1, 2, 3, 4, 5,6,7 ]})
 df7 = DataFrame({'reference': ['uber', 'uber', 'lyft', 'ola', 'ola'],
                  'revenue': [1, 2, 3, 4, 5,]})
-print df6, df7
+print '=========='
+print df6
+print df7
 print pd.merge(df6,df7)
-print '---------'
+print '---inner-------'
+print pd.merge(df6,df7, on='reference', how='inner')
+print '----right------'
+print pd.merge(df6,df7, on='reference', how='right')
+print '-----left-----'
+print pd.merge(df6,df7, on='reference', how='left')
+print '------outer----'
+print pd.merge(df6,df7, on='reference', how='outer')
+print '=========='
 # Multiple references
 df8 = DataFrame({'reference': ['ola', 'ola', 'lyft' ],
                  'revenue': ['one', 'two', 'three' ],
@@ -44,11 +54,19 @@ df9 = DataFrame({'reference': ['ola', 'ola', 'lyft', 'lyft'],
                  'revenue': ['one', 'one', 'one', 'three' ],
                  'profit': [ 4, 5, 6, 7 ]})
 print df9
+print '-----merge-------'
+print pd.merge(df8, df9, on=['reference', 'revenue'],
+               suffixes=('_df8', '_df9' ))
+print '----inner------'
+print pd.merge(df8, df9, on=['reference', 'revenue'], how='inner',
+               suffixes=('_df8', '_df9' ))
+print '---outer-------'
 print pd.merge( df8, df9, on=['reference', 'revenue'], how='outer')
-
-print pd.merge(df8, df9, on=['reference', 'revenue'], how='outer',
-               suffixes=('_first', '_second' ))
-
-
+print '----left------'
+print pd.merge(df8, df9, on=['reference', 'revenue'], how='left',
+               suffixes=('_df8', '_df9' ))
+print '-----right-----'
+print pd.merge(df8, df9, on=['reference', 'revenue'], how='right',
+               suffixes=('_df8', '_df9' ))
 
 # Many to many merging
