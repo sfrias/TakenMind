@@ -68,5 +68,3 @@ print pd.merge(df8, df9, on=['reference', 'revenue'], how='left',
 print '-----right-----'
 print pd.merge(df8, df9, on=['reference', 'revenue'], how='right',
                suffixes=('_df8', '_df9' ))
-
-# Many to many merging
