@@ -47,5 +47,5 @@ df4 = DataFrame(np.arange(10).reshape(5,2)
 print '--- df4 ---'
 print df4
 
-print "- pandas.merge(df3, df4, left_on= ['ref1', 'ref2'] , right_index= True) -"
+print "- pandas.merge(df3,df4,left_on=['ref1','ref2'],right_index=True) -"
 print Mergedf(df3, df4, left_on= ['ref1', 'ref2'] , right_index= True)
