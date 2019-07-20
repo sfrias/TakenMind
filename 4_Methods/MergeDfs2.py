@@ -22,8 +22,8 @@ df1 = DataFrame({'reference':['O', 'U', 'L', 'O', 'U'],
 print '--- df1 ---'
 print df1
 
-df2 = DataFrame({'profit': [10, 20, 20]},
-                 index =['O', 'O', 'U'])
+df2 = DataFrame({'profit': [10, 20]},
+                 index =['O', 'U'])
 print '--- df2 ---'
 print df2
 
@@ -47,4 +47,5 @@ df4 = DataFrame(np.arange(10).reshape(5,2)
 print '--- df4 ---'
 print df4
 
+print "- pandas.merge(df3, df4, left_on= ['ref1', 'ref2'] , right_index= True) -"
 print Mergedf(df3, df4, left_on= ['ref1', 'ref2'] , right_index= True)
