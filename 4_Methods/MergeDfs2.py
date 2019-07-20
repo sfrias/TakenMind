@@ -34,3 +34,17 @@ print df2
 
 print  "- pandas.merge(df1, df2, left_on= 'reference', right_index = True) -"
 print Mergedf(df1, df2, left_on= 'reference', right_index= True)
+print '==============='
+df3 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'A'],
+                  'ref2': [5, 10, 15, 20, 25],
+                  'ref3': range(5)})
+print '--- df3 ---'
+print df3
+
+df4 = DataFrame(np.arange(10).reshape(5,2)
+                , index=[['A', 'A', 'O', 'O', 'O'], [20, 10, 10, 10, 20]],
+                columns= [ 'col1', 'col2'])
+print '--- df4 ---'
+print df4
+
+print Mergedf(df3, df4, left_on= ['ref1', 'ref2'] , right_index= True)
