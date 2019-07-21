@@ -20,6 +20,11 @@ print ' - df2 joined with df1 - '
 df3 = df1.join(df2)
 print df3
 print df3.index
+
+print ' - df1 joined with df2 - '
+df3 = df2.join(df1)
+print df3
+print df3.index
 print '==================='
 df3 = DataFrame({'ref1': ['A', 'A', 'O', 'O', 'A'],
                  'ref2': [5, 10, 15, 20, 25],
