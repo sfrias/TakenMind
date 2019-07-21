@@ -1,6 +1,9 @@
 import numpy as np
 from pandas import DataFrame
 
+
+
+
 df1 = DataFrame({'data': range(5)},
                 index= ['O', 'U', 'L', 'O', 'U'])
 print '--- df1 ---'
@@ -46,7 +49,22 @@ df6 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'O'],
                   'ref3': range(5,10)})
 print df6
 print df6.index
-print '--- df4 joined df3 ---'
+print '--- df6 joined df3 ---'
+df7 = df3.join(df6, lsuffix='x', rsuffix= 'y')
+print df7
+print df7.index
+print '============'
+print '--- df3 ---'
+print df3
+print df3.index
+print '--- df6 indexes 5 to 9---'
+df6 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'O'],
+                  'ref2': [15, 20, 25, 30, 35],
+                  'ref3': range(5,10)},
+                index=range(5,10))
+print df6
+print df6.index
+print '--- df6 different indexes joined with df3 ---'
 df7 = df3.join(df6, lsuffix='x', rsuffix= 'y')
 print df7
 print df7.index
