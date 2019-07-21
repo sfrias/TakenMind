@@ -10,6 +10,7 @@ print df1.index
 df2 = DataFrame({'profit': [10, 20, 20]},
                  index =['O', 'O', 'U'])
 print '--- df2 ---'
+print df2
 print df2.index
 
 print ' - df2 joined with df1 - '
@@ -36,13 +37,13 @@ df5 =df4.reindex(df3.index, level=0)
 print df5
 print df5.index
 print '============'
+print '--- df3 ---'
 print df3
 print df3.index
-print '----'
+print '--- df6 ---'
 df6 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'O'],
                   'ref2': [15, 20, 25, 30, 35],
                   'ref3': range(5,10)})
-print '--- df6 ---'
 print df6
 print df6.index
 print '--- df4 joined df3 ---'
