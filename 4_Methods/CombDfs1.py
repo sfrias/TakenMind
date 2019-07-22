@@ -11,4 +11,6 @@ print s2
 
 # Substitution values for NaN with where
 # isnull() selects choice s1 or s2 values
-s3=Series(where(isnull(s1), s2, s1)
+s3 = Series(where(isnull(s1), s2, s1), index=s1.index)
+print '- combine s2 values if s1 value is NaN - '
+print s3
