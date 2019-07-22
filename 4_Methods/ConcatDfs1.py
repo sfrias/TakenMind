@@ -54,3 +54,10 @@ print df1
 print '--- df2 ---'
 print df2
 # Concatenate/link Dataframes
+print '--- df concat(df1, df2) axis=0 ---'
+print pdconcat([df1, df2], axis=0, sort=False)
+print '--- df concat(df1, df2) axis=0 ignore_index ---'
+print pdconcat([df1, df2], axis=0, sort=False,
+               ignore_index=True)
+print '--- df concat(df1, df2) axis=1 ---'
+print pdconcat([df1, df2], axis=1, sort=False)
