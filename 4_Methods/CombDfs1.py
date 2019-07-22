@@ -14,3 +14,8 @@ print s2
 s3 = Series(where(isnull(s1), s2, s1), index=s1.index)
 print '- combine s2 values if s1 value is NaN - '
 print s3
+
+# The same with combine_first function
+s4 = s1.combine_first(s2)
+print '---- Same with combine_first method ---'
+print s4
