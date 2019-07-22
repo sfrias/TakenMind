@@ -51,7 +51,7 @@ print df3.index
 print '--- df6 ---'
 df6 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'O'],
                   'ref2': [15, 20, 25, 30, 35],
-                  'ref3': range(5,10)})
+                  'ref3': range(5)})
 print df6
 print df6.index
 print '--- df6 joined df3 ---'
@@ -65,7 +65,7 @@ print df3.index
 print '--- df6 indexes 5 to 9---'
 df6 = DataFrame({ 'ref1': ['A', 'A', 'O', 'O', 'O'],
                   'ref2': [15, 20, 25, 30, 35],
-                  'ref3': range(5,10)},
+                  'ref3': range(5)},
                 index=range(5,10))
 print df6
 print df6.index
