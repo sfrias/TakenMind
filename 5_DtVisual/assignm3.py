@@ -20,6 +20,8 @@ print df
 #print '--- data ---'
 #print df.values
 #print '======'
+dfpv = dfpv.drop_duplicates('year', 'continent')
 dfpv = df.pivot('year', 'continent', 'lifeExp')
+
 print dfpv
 sns.heatmap(dfpv).get_figure().savefig('heat1.png')
