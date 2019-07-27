@@ -7,7 +7,7 @@ print df
 
 print '- Duplicated for all column coincidence -'
 print df.duplicated()
-print '- Dropped duplicates, all column -'
+print '- Dropped duplicates (nothing), all column -'
 print df.drop_duplicates()
 
 print '- Dropped duplicates, col1 -'
