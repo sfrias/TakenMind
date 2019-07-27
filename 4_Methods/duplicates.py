@@ -14,9 +14,7 @@ print df.drop_duplicates()
 print'- Duplicated for col1 coincidence -'
 print df.duplicated(['col1'])
 print '- Dropped duplicates keeping first, col1 -'
-print df.drop_duplicates(['col1'], keep='first')
-print '- Dropped duplicates keeping last, col1 -'
-print df.drop_duplicates(['col1'], keep='last')
+print df.drop_duplicates(['col1'])
 
 print'- Duplicated for col2 coincidence -'
 print df.duplicated(['col2'])
