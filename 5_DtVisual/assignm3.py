@@ -15,7 +15,7 @@ dfpv = df.pivot_table(index='continent',
                       values='lifeExp',
                       aggfunc='mean')
 # Print Pivot Table for test
-print '- Printing pivot table for test -'
+print '- pivot table lifeExp for test -'
 print dfpv
 # Generating Heat Map
 print '- Generating heat map -'
