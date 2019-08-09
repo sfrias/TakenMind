@@ -19,4 +19,5 @@ print '- pivot table lifeExp for test -'
 print dfpv
 # Generating Heat Map
 print '- Generating heat map -'
-sns.heatmap(dfpv).get_figure().savefig('assign3.png')
+sns.heatmap(dfpv).get_figure().savefig('assign3.png',
+                    bbox_inches='tight')
