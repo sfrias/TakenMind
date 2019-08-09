@@ -17,6 +17,8 @@ set(style='ticks', palette='pastel')
 
 # Load example tips dataset
 tips = load_dataset('tips')
+print tips.head()
+print tips.tail()
 
 # Draw a nested boxplot to show bills/day,time
 fig = plt.figure(figsize=(4,4))
